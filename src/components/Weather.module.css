@@ -1,0 +1,98 @@
+.city {
+    width: 60%;
+    height: 100%;
+    float:left;
+    /* background: url("../images/city.jpg"); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    position: relative;
+    background-position-x: -30px;
+    border-radius: 30px 0 0 30px;
+}
+
+.title {
+    /* font-family: "Oxygen", sans-serif; */
+    width: 80%; 
+    height: 20%;
+    padding: 20px;
+    margin: 20px auto;
+    background-color: rgba(0, 0, 0, 0.73);
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.icon{
+    width: 50%;
+    height: 100%;
+    /* display: flex;
+    flex-direction: column; */
+}
+
+.icon h1{
+    float: none;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    letter-spacing: 2px;
+    border-bottom: 1px solid #fff;
+}
+
+.city_title {
+    margin: auto 0;
+}
+
+.city_title h2 {
+    font-size: 30px;
+    font-weight: bold;
+    color: #fff;
+    text-align: right;
+}
+
+.city_title h3{
+    font-size: 20px;
+    font-weight: bold;
+    color: #eee;
+    text-align: right;
+    margin-top: 0px;
+}
+
+.time-date-temp{
+    color: #eee;
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.time-date{
+    text-align: left;
+    margin: 0 0 5px 30px;
+}
+
+.time-date h2 { 
+    font-size: 20px;
+    margin: 5px;
+}
+
+
+.temp {
+    font-size: 100px;
+    font-weight: bold;
+    margin: 0 30px 5px 0;
+    padding: 0;
+    color: #fff;
+}
+
+.temp h1 {
+    padding: 0;
+    margin: 5px;
+}
+
