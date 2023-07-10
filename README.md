@@ -1,8 +1,7 @@
 # Weather App 
 ## Real Time Weather Application.
 
-![Screenshot 2023-07-08 143323](https://github.com/imranansari72/weather-react-application/assets/88080996/ce297b58-6ef8-4c48-b7b5-cd776bf9ee6e)
-
+![Screenshot](https://github.com/imranansari72/weather-react-app/assets/88080996/25f6d413-679d-4766-b55b-457650b1ad53)
 
 ## Installation
 
