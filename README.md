@@ -15,3 +15,4 @@ npm i
 npm start
 ```
 # weather-react-app
+live link: https://weather-sw7s.onrender.com
